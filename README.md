@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Danish Shaikh (@DANISH-d1)
 - 👀 I’m interested in Web Development.
-- 🌱 I’m currently learning JavaScript! My current Skillset:[HTML,CSS], This is just the Beginning of my journey!.
-- 🌱 I'm in my Fourth Semester currently,Pursuing Computer Science Engineering.
+- 🌱 I’m currently learning JavaScript! My current Skillset:[HTML,CSS,JS], This is just the Beginning of my journey!.
+- 🌱 I'm in my Fifth Semester currently,Pursuing Computer Science Engineering.
 - 📫 You can reach me:
   - https://twitter.com/danish_shaikhhh?s=21
 
